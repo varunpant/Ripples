@@ -3,6 +3,11 @@
 Ripples is yet another fun app or rather a port of my [silverlight app](http://varunpant.com/posts/water-simulation) into android.
 Its still in 2D and some day I intend to port it into 3D.
 
+
+![Screen Shot](https://github.com/varunpant/Ripples/blob/master/Ripples.png?raw=true "Screen Shot")
+
+
+
 Blog
 ----
 
